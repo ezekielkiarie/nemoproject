@@ -50,7 +50,7 @@ fun SplashScreen(navController: NavHostController) {
                 }))
         // Customize the delay time
         delay(3000L)
-        navController.navigate(ROUTE_LOGIN)
+        navController.navigate(ROUTE_HOME)
     }
 
     // Image
